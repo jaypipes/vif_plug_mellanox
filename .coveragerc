@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = vif_plug_mellanox
+omit = tests/*,vif_plug_mellanox/openstack/*
+
+[report]
+ignore-errors = True
